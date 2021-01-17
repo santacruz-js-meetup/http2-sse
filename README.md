@@ -20,5 +20,3 @@ HTTP/2 requires TLS. To make it easy to try, the repo contains certificate and k
 The presentation slides are here:
 
 https://docs.google.com/presentation/d/1MzE_c2clxo4IcE6_pNvOmLmX1maI1IsS5IUOBApVHYY/edit?usp=sharing
-
-
