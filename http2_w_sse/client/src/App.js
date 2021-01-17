@@ -58,10 +58,6 @@ function App() {
     .then(loadJSON(msg => {
       setMessage(() => msg);
     }));
-    // .then(data => {
-    //   // Get the JSON decoded data here
-    //   console.log(data);
-    // });
   };
 
   return (
